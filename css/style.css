@@ -35,6 +35,22 @@
 /*----------------------------------------*/
 /*  1.  Theme default CSS
 /*----------------------------------------*/
+.rotulo{
+  font-size: 16px;
+  font-weight: 800;
+  color: white;
+  text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+  
+}
+
+.rotulo2{
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+  
+  
+}
 
 html, body {
   height: 100%;
@@ -1741,7 +1757,7 @@ div#preloader {
 
 .footer-area {
   padding: 40px 0;
-  background: #f9f9f9;
+  background: #dfd8d8;
 }
 
 .footer-head p {
@@ -2348,6 +2364,4 @@ span.email-notes {
   padding-top: 30px;
 }
 
-/*----------------------------------------
- .End CSS
-----------------------------------------*/
+
